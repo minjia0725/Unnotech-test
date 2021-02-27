@@ -1,9 +1,8 @@
 # Unnotech test
 
 ## 如何執行此專案
-
-將專案使用編輯器打開後先執行npm install將插件載入
-載入完成後執行npm run serve 後執行npm run serve 後即可打開專案瀏覽
+* 將此專案下載下來後，使用編輯器打開後用終端機執行npm install將插件載入。
+* 載入完成後執行npm run serve 完成後即可打開專案瀏覽
 ```
 npm install   # 安裝相依套件
 npm run serve # 建立開發環境
